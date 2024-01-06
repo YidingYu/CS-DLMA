@@ -7,6 +7,3 @@ There are three main files in each folder, simulating the interactions of CS-DLM
 - **environment.py** simulates the interaction between the CS-DLMA node and the WiFi node. It is similar as OpenAI gym environment.
 - **DQN_brain.py** builds the CS-DLMA node/agent. The new DQN algorithm is here. 
 
-## Partly open-sourced
-Currently, only the simulation codes of the coexistence of one CS-DLMA node, one TDMA node and one ALOHA node are provided.
-More simulation codes will be available after our paper gets accepted:)
